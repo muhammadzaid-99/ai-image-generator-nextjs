@@ -4,7 +4,7 @@ const nextConfig = {
       return [
         {
           source: '/api/:path*', // Path on your frontend
-          destination: 'https://image-generation-api-745834326512.us-central1.run.app/:path*', // Your backend API
+          destination: 'https://image-generation-api-767711820421.us-central1.run.app/:path*', // Your backend API
         },
       ];
     },
